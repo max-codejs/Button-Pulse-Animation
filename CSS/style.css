@@ -14,7 +14,7 @@
     text-align: center;
     color: pink;
     text-decoration: none;
-    border: 3px solid pink;
+    border: 1px solid pink;
     border-radius: 10px;
     padding: 10px;
     background-color: black;
@@ -29,7 +29,7 @@
 @keyframes pulsar {
     0% {
         box-shadow: 
-        0 0 25px darkred, 
-        0 0 50px red;
+        0 0 25px red, 
+        0 0 50px pink;
     }
 }
